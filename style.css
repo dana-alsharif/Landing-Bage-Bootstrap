@@ -1,0 +1,22 @@
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+
+}
+
+@media (min-width: 768px){
+    .news-input{
+        width: 50%;
+}
+}
+.instructors{
+    background: rgb(161, 154, 154)
+}
+
+#map{
+    border-radius:20px;
+    width: 100%;
+    height: 100%;
+
+}
